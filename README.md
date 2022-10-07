@@ -1,2 +1,2 @@
 # C#
-![C#](https://user-images.githubusercontent.com/58842453/194584192-cf90d866-9e84-4b15-8e9e-8859406e4f1c.png)
+![C#](https://user-images.githubusercontent.com/58842453/194588443-c0ab5990-6df0-44ac-a28e-8b80ff6653c3.png)
